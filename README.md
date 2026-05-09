@@ -13,7 +13,7 @@ Check out my interactive CV and portfolio:
 
 ### 🔗 Connect with me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-username) *(replace with your LinkedIn URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathias-bruflot-84b639240/)
 - 🐙 [GitHub](https://github.com/mathbruf)
 - 📧 mathbruf@hotmail.com
 
@@ -21,13 +21,7 @@ Check out my interactive CV and portfolio:
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](https://github.com/mathbruf/repo-name) | Short description | — |
-| [Project Name](https://github.com/mathbruf/repo-name) | Short description | — |
-| [Project Name](https://github.com/mathbruf/repo-name) | Short description | — |
-
-*(Replace the rows above with your repos)*
+*Coming soon — projects in progress!*
 
 ---
 
@@ -50,6 +44,7 @@ Check out my interactive CV and portfolio:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 
